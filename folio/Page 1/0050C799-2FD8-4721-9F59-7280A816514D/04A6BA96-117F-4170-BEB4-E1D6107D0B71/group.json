@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "do_objectID": "04A6BA96-117F-4170-BEB4-E1D6107D0B71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 526,
+    "width": 750,
+    "x": 1328,
+    "y": 2207
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A42D9241-824F-41A4-AB1C-9B4CE2B430E0"
+    },
+    {
+      "class": "bitmap",
+      "id": "12158E40-3796-433E-83C2-130B2A16A7F5"
+    },
+    {
+      "class": "bitmap",
+      "id": "D5075D11-5A41-4A83-B063-239470BD03D6"
+    },
+    {
+      "class": "bitmap",
+      "id": "23A8776F-B9D7-477F-A247-2B226B7A7876"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "56E68134-DA41-4C10-B526-631FA264C129"
+    },
+    {
+      "class": "bitmap",
+      "id": "4DAECADF-49A3-4554-B565-C66BA0058ED0"
+    },
+    {
+      "class": "group",
+      "id": "B1AA69A7-2003-4B29-9A7B-4269BA23E80E"
+    }
+  ],
+  "name": "Group Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

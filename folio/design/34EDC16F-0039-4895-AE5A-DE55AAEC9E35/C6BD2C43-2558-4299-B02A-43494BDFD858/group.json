@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "C6BD2C43-2558-4299-B02A-43494BDFD858",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 208,
+    "x": 178,
+    "y": -104
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3D24B217-8C28-432C-858C-04324A28493C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21247B31-609F-4922-A1CA-129BAB135295"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "307DDD1C-5415-431A-B073-0370AC022C5B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1AFC810E-6EB1-4A0F-ADCC-4A7DA5CE3A64"
+    }
+  ],
+  "name": "diamond",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 315,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

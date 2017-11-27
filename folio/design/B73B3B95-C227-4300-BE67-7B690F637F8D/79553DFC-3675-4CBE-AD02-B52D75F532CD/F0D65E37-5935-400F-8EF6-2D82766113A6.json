@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F0D65E37-5935-400F-8EF6-2D82766113A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 250,
+    "width": 350.0000000000002,
+    "x": 370,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 20,
+  "masterInfluenceEdgeMaxYPadding": 35,
+  "masterInfluenceEdgeMinXPadding": 20,
+  "masterInfluenceEdgeMinYPadding": 5,
+  "name": "YGMaterial/Cards/article Copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "07F53E90-BB3C-45A1-B590-96188A1EC109": "His secretary of state, Rex Tillerson, has spoken of a ‘steady degradation’ and said ‘the world’s two foremost nuclear powers cannot have this kind of relationship’. But the West seems to be in disarray about how to deal...",
+    "0AEFB8DF-76F8-4473-80D0-48249CB2A1FC": "Mathew Smith",
+    "182A91A0-EBD0-4174-9727-1603ABF263C5": {
+      "35AC1F46-F6F8-4AE9-B6D5-82E0D66DA298": "John Humphrys - Handling Russia: Cooperation or Confrontation?"
+    },
+    "76B4F0B0-E227-48B4-981E-F1C61870C4E7": "March, 2017"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4386424C-F609-4B34-A572-34B01C5A9CC7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "9ECA6F8B-E871-4A5F-AB83-73F94C55B767",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

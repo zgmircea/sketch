@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "9ACD0668-7751-4AD8-B885-0E79A996D767",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 623,
+    "width": 308,
+    "x": 320,
+    "y": 2822
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1D3EFF9C-EF88-4DBB-82EA-D2EE73CEBF2F"
+    },
+    {
+      "class": "group",
+      "id": "76F66522-D6FB-45F1-B280-D43FE9C3D7E7"
+    },
+    {
+      "class": "group",
+      "id": "54DDABE2-53E4-45AA-8AF1-FA21310A282B"
+    }
+  ],
+  "name": "iphone-rose-gold",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 9,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 623,
+            "enabled": 1,
+            "modelID": "constraint_2a60f85c-be75-46c4-ab66-3f161a3fdb6d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 307.8638
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ec528b22-d838-47f9-b4a0-7641daee7ab4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "_class": "group",
+  "do_objectID": "F1300B5F-0C93-4F2E-9381-018D7084E7DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 178,
+    "x": 80,
+    "y": 71
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BFAEB75B-0A11-4BA0-8B21-D073850CB97A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "60F1379F-D9E1-4D69-BF57-30442AE114BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F7AFAFF-4F7B-426B-923F-A5F4D1ADC3D9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48832365-CC2B-484A-BD1B-CFCC5F3F6E91"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13E41123-50E8-40BB-AF39-BDC9771CF084"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "183D95ED-D303-4E17-8CA9-3348B5BF822A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "211909C8-20B2-4FEC-84C8-10F8EB663B94"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1429106-B3A3-467E-B103-3A54CE4137C5"
+    }
+  ],
+  "name": "YGMaterial/Logo/main-logo Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "FB7375D9-BA37-4839-968C-BF1C07CBEA88",
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "BEFCA0AA-5EFB-4E9C-90C7-904CE44AE6D2",
+        "version": 1
+      }
+    }
+  }
+}

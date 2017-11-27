@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "BC27A342-D0F4-437E-A930-B73AC03D4FB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1366,
+    "width": 1366,
+    "x": -1854,
+    "y": -135
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1685DE4A-D388-41EF-966E-D2BE5ED77CF9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E5DA4429-7E8D-4608-9939-3A15DC505981"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2ECE1FE0-403A-48B0-9B1F-BD98A7A47777"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16A2A9E0-4FE5-4865-86E4-4E6157394D0D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D32C7F9C-E4D6-4688-BEA9-1EB4AC6FDD58"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A03F8086-4C00-4803-B657-F079BAC1540A"
+    },
+    {
+      "class": "group",
+      "id": "2DC0C797-0395-4C83-9E81-229319028BC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A9F3042-8D5D-428D-94B8-604D965F7DC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "23114195-AFBA-41D8-8A97-20EB1AEDE34F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1AD1297-BC03-42CB-A02B-BACE1C45CD1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "175DEA65-D35E-434A-B385-785EE57E7F64"
+    }
+  ],
+  "name": "Stuff",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

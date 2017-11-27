@@ -1,0 +1,55 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTw/Q0tMTU5PU1dZVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXENoYXJsZXMgQ2hhbtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA2AFVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4yNDMxMzcyNTQ5IDAuMjQ3MDU4ODIzNSAwLjI1NDkwMTk2MDgAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1DY3OAo5OiQ7Wk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugAAQBIAM0iwtPT5fEBBOU1BhcmFncmFwaFN0eWxloj0x0gpAQUJfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKREdKokVGgA+AEKJISYARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXxAPUmFsZXdheS1SZWd1bGFy0iwtUFFfEBNOU011dGFibGVEaWN0aW9uYXJ5o1BSMVxOU0RpY3Rpb25hcnnSLC1UVV8QEE5TRm9udERlc2NyaXB0b3KiVjFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtUliiUjHSLC1aW18QEk5TQXR0cmlidXRlZFN0cmluZ6JcMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFfYFRyb290gAEACAARABoAIwAtADIANwBRAFcAXgBnAG4AewB9AH8AgQCOAJUAnQCoAKwArgCwALIAtgC4ALoAvAC+AMYA2QD7AQQBCgEXASwBVgFYAVoBXAFhAWYBaAFqAW8BegGDAZABkwGgAakBrgG2AbkBwgHNAdkB+wH9Af8CAQIGAhkCHAIhAj4CQAJCAkkCTAJOAlACUwJVAlcCWQJvAoUCjgKgAqUCuwK/AswC0QLkAucC+gL/AwIDBwMcAx8DNANGA0kDTgAAAAAAAAIBAAAAAAAAAGEAAAAAAAAAAAAAAAAAAANQ"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B7F4D78A-3394-4021-873D-C8A54BCDE3FF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 87,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 2}, {86, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Charles Chan",
+  "nameIsFixed": false,
+  "originalObjectID": "B7F4D78A-3394-4021-873D-C8A54BCDE3FF",
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "AB1702F4-9798-4374-BCC3-E8607048884B"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

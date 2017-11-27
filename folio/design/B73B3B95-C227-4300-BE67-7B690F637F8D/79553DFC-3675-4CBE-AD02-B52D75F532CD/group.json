@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "79553DFC-3675-4CBE-AD02-B52D75F532CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 250,
+    "width": 1090,
+    "x": 0,
+    "y": 229
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F0D65E37-5935-400F-8EF6-2D82766113A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC26B696-3E3D-4759-9BD6-35C26D9FCC08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60E7F2CD-3922-49DA-9C97-E6BABBC036CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4E78F86-DD0B-4B76-8473-4BB7E2AF5F07"
+    }
+  ],
+  "name": "Group 15",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "F1C09800-778D-40FC-BBD0-D400BD20A0FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14,
+    "width": 12,
+    "x": 618,
+    "y": 1292
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "286BCEA3-52D9-40DD-A917-639B840111C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "814F92C8-6CF9-49FF-B0EF-B9768581F550"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED949AE5-F7B0-4DC9-B616-E7A757A480AC"
+    }
+  ],
+  "name": "iconmonstr-file-2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 14,
+            "enabled": 1,
+            "modelID": "constraint_e898c4f1-3c58-4156-a489-9a2470f62382",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 11.66667
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_09a850af-8b6c-4aaa-9e63-e63d455363d1",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "78984A39-A121-49E6-8973-9B9048B10FC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13,
+    "width": 14,
+    "x": 311,
+    "y": 25
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "296268F8-F147-4288-BB9F-22C844784BAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E842D86-1F99-467D-9DB1-081E273EE266"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B2770641-C6BA-4D62-89F6-477E6444BF67"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "490B776F-6A85-4759-9137-D7FC47E58DEE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "90D0A651-CBE7-4FC9-87C2-1B0C6A8AF10E"
+    }
+  ],
+  "name": "survey icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 12,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

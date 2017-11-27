@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C4E78F86-DD0B-4B76-8473-4BB7E2AF5F07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 250,
+    "width": 350.0000000000002,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 20,
+  "masterInfluenceEdgeMaxYPadding": 35,
+  "masterInfluenceEdgeMinXPadding": 20,
+  "masterInfluenceEdgeMinYPadding": 5,
+  "name": "YGMaterial/Cards/card base Copy 3",
+  "nameIsFixed": false,
+  "overrides": {
+    "1CD0717D-F420-443C-85F7-8EB2AB86399C": "3 Questions",
+    "46BF36DA-ADBA-44BA-ABC1-C9B57A6F9058": "Daily Survey",
+    "A0A930E1-71E7-47EB-ACC4-B1AACA9E2B6E": {
+      "35AC1F46-F6F8-4AE9-B6D5-82E0D66DA298": "When the US and Russia are arguing, whose side do you tend to take? Plus, working days and sunburn results",
+      "870EF1F5-6BC6-4FE0-976D-EC4E76AB4B20": "Survey results"
+    },
+    "FAD5E7FB-8B57-42AB-9111-37FDC94E9B57": "April 2017"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "46C617D1-9E4E-4C91-AAB9-CA25E30D6C44",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "0FE8DBC8-28DF-4884-B20E-98AACC3B65A1",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
